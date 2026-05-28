@@ -28,4 +28,12 @@
     <string name="empty_tasks_search_title">Ничего не найдено</string>
     <string name="empty_tasks_search_subtitle">Попробуйте изменить поисковый запрос или фильтр</string>
     <string name="delete_confirmation">Удалить эту задачу?</string>
+    <string name="add_list">Создать список</string>
+    <string name="edit_list">Изменить список</string>
+    <string name="list_title">Название списка</string>
+    <string name="list_icon">Иконка (эмодзи)</string>
+    <string name="delete_list_confirmation">Удалить этот список и все его задачи?</string>
+    <string name="empty_lists_title">В TuxTodo пусто</string>
+    <string name="empty_lists_subtitle">Создайте свой первый список дел, чтобы начать планирование!</string>
+    <string name="back_button">Назад</string>
 </resources>
