@@ -1,0 +1,77 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Subtle backdrop checkmark shadow -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M78.5,23.5 L46.5,72.5 L29.5,58.5 L24.5,63.5 L46.5,82.5 L83.5,28.5 Z" />
+
+    <!-- Tux Outer Body Contour (Black-slate) -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M54,16 C34.5,16 28,31 28,54 C28,77 34.5,86 54,86 C73.5,86 80,77 80,54 C80,31 73.5,16 54,16 Z" />
+
+    <!-- Feet (Orange / Golden Amber) -->
+    <!-- Left foot -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M31,82 C25,82 23,88 28,91 C33,94 43,90 43,84 Z" />
+    <!-- Right foot -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M77,82 C83,82 85,88 80,91 C75,94 65,90 65,84 Z" />
+
+    <!-- Wings (Slightly overlapping outer curves) -->
+    <!-- Left wing -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M28,45 C18,48 16,65 24,70 C28,64 30,52 28,45 Z" />
+    <!-- Right wing -->
+    <path
+        android:fillColor="#212121"
+        android:pathData="M80,45 C90,48 92,65 84,70 C80,64 78,52 80,45 Z" />
+
+    <!-- White Belly (Center chest patch) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,38 C42,38 35,46 35,62 C35,78 42,84 54,84 C66,84 73,78 73,62 C73,46 66,38 54,38 Z" />
+
+    <!-- Eye Patches (White face overlay) -->
+    <!-- Left eye patch -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44.5,25 C39,25 36.5,31 36.5,37 C36.5,43 39,45 44.5,45 C50,45 52.5,43 52.5,37 C52.5,31 50,25 44.5,25 Z" />
+    <!-- Right eye patch -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M63.5,25 C58,25 55.5,31 55.5,37 C55.5,43 58,45 63.5,45 C69,45 71.5,43 71.5,37 C71.5,31 69,25 63.5,25 Z" />
+
+    <!-- Pupils -->
+    <!-- Left pupil -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M44.5,31 C42,31 41,33 41,36 C41,39 42,41 44.5,41 C47,41 48,39 48,36 C48,33 47,31 44.5,31 Z" />
+    <!-- Right pupil -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M63.5,31 C61,31 60,33 60,36 C60,39 61,41 63.5,41 C66,41 67,39 67,36 C67,33 66,31 63.5,31 Z" />
+
+    <!-- Pupil highlights -->
+    <!-- Left shin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M43.5,33 C42.7,33 42.5,33.8 42.5,34.5 C42.5,35.2 42.7,36 43.5,36 C44.3,36 44.5,35.2 44.5,34.5 C44.5,33.8 44.3,33 43.5,33 Z" />
+    <!-- Right shin -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M62.5,33 C61.7,33 61.5,33.8 61.5,34.5 C61.5,35.2 61.7,36 62.5,36 C63.3,36 63.5,35.2 63.5,34.5 C63.5,33.8 63.3,33 62.5,33 Z" />
+
+    <!-- Beak (Classic Penguin Orange) -->
+    <path
+        android:fillColor="#FF9800"
+        android:pathData="M45,42 L63,42 L54,54 Z" />
+
+</vector>

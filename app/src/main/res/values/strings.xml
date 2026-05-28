@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">TuxTodo</string>
+    <string name="add_task">Добавить задачу</string>
+    <string name="edit_task">Изменить задачу</string>
+    <string name="task_title">Название</string>
+    <string name="task_title_empty_error">Название не может быть пустым</string>
+    <string name="task_description">Описание (необязательно)</string>
+    <string name="task_priority">Приоритет</string>
+    <string name="priority_low">Низкий</string>
+    <string name="priority_medium">Средний</string>
+    <string name="priority_high">Высокий</string>
+    <string name="task_category">Категория</string>
+    <string name="category_all">Все</string>
+    <string name="category_work">Работа</string>
+    <string name="category_personal">Личное</string>
+    <string name="category_study">Учёба</string>
+    <string name="category_linux">Linux/Tux</string>
+    <string name="filter_status">Статус</string>
+    <string name="status_all">Все</string>
+    <string name="status_active">Активные</string>
+    <string name="status_completed">Завершённые</string>
+    <string name="search_placeholder">Поиск задач...</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_delete">Удалить</string>
+    <string name="empty_tasks_title">У вас нет задач</string>
+    <string name="empty_tasks_subtitle">Нажмите кнопку +, чтобы добавить свою первую задачу!</string>
+    <string name="empty_tasks_search_title">Ничего не найдено</string>
+    <string name="empty_tasks_search_subtitle">Попробуйте изменить поисковый запрос или фильтр</string>
+    <string name="delete_confirmation">Удалить эту задачу?</string>
+</resources>

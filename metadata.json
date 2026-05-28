@@ -1,0 +1,6 @@
+{
+  "name": "TuxTodo",
+  "description": "Продвинутый и элегантный планировщик задач в стиле Material Design 3 и Material You, вдохновленный пингвином Tux.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
