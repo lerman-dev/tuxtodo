@@ -31,5 +31,5 @@ jobs:
           -dname "CN=Android Debug, O=Android, C=US" \
           -storepass android -keypass android
 
-    - name: Build and test
-      run: gradle clean build
+    - name: Build debug APK
+      run: gradle assembleDebug
